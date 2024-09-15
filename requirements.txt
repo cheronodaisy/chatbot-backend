@@ -1,0 +1,9 @@
+Flask
+transformers
+requests
+PyMuPDF
+pandas
+langchain
+langchain-community
+sentence-transformers 
+faiss-cpu
