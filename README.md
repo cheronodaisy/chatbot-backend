@@ -1,5 +1,5 @@
 # Chatbot Backend
-A chatbot using Retrieval-Augmented Generation (RAG) to answer questions based on CSV and PDF data related to Brazil.
+A chatbot using Retrieval-Augmented Generation (RAG) to answer questions based on CSV and PDF with economic data
 
 ## Features
 

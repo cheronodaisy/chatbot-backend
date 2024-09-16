@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 from transformers import pipeline, AutoTokenizer
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_huggingface import HuggingFaceEmbeddings
 import pandas as pd
 import PyPDF2
 
