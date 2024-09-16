@@ -55,4 +55,4 @@ A chatbot using Retrieval-Augmented Generation (RAG) to answer questions based o
 
 Run the tests using:
 ```bash
-python test_app.py
+python test.py
